@@ -1,1 +1,17 @@
-# js-algo-ds
+# Javascript Algorithm and Data Structure
+
+This repo contains all of js related algo and data structure questions.
+Each problem has it's own folder and contains following files
+
+1. `index.js` file contains all different solutions
+2. `test.js` contains all test cases related to that problem
+3. `Readme.md` explains about the problem
+
+### Run Test
+
+1. To run all tests
+
+   > npm run test
+
+2. To run individual test
+   > npm run test ./<Folder_Name>/test.js
