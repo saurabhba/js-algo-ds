@@ -10,8 +10,22 @@ Let's assume that the array length is always at least one, and that there's alwa
 In the example above, the majority element would be 4.
 
 Examples
-[4, 2, 2] -> 4 has majority
+[4, 2, 4] -> 4 has majority
 
 [4, 2, 4, 2] -> no majority
 
 [4, 2, 4, 2, 1, 4, 1, 2, 4] -> no majority
+
+### Solution-1
+1. Save each element in a hash map (element as key and occurance as value)
+
+2. Check which key has highest value in hash
+
+3. Return that key
+
+### Solution-2
+1. Sort input array
+
+    `[4, 2, 4]` after sort become `[2, 4, 4]`
+2. Get the middle element from sorted array
+
