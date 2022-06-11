@@ -25,3 +25,7 @@ In a number array find a number which is repeating most of the time in an array.
 ### 2. Sum Digits Until One
 
 Sum all the digits in a given number until sum become single digit
+
+### 3. Fizzbuzz
+
+String representation of all numbers from 1 to n based on rules
