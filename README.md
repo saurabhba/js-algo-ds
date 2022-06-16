@@ -29,3 +29,15 @@ Sum all the digits in a given number until sum become single digit
 ### 3. Fizzbuzz
 
 String representation of all numbers from 1 to n based on rules
+
+### 4. Sum of Prime Numbers
+
+Get the sum of all prime numbers between 2 and given number
+
+### 5. Missing Numbers in array
+
+Find all the missing numbers in a given numbers of array
+
+### 6. Missing number in unsorted array
+
+Find a missing number in unsorted numbers of array.
