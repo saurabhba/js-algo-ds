@@ -41,3 +41,7 @@ Find all the missing numbers in a given numbers of array
 ### 6. Missing number in unsorted array
 
 Find a missing number in unsorted numbers of array.
+
+### 7. Two Sum
+
+Find two digits in an array whose sum is equal to given number
